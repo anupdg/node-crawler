@@ -1,0 +1,29 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "dns": "^0.2.2",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "get-ssl-certificate": "^2.3.3",
+    "got": "^11.7.0",
+    "jquery": "^3.5.1",
+    "jsdom": "^16.4.0",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "url": "^0.11.0",
+    "util": "^0.12.3",
+    "whois": "^2.13.0"
+  }
+}
